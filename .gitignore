@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# 出力フォルダの内容（ユーザーごとに異なるため除外。フォルダ自体は追跡）
+workspace/*
+!workspace/.gitkeep
