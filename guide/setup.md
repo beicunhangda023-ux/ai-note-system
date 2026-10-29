@@ -17,10 +17,12 @@ ai-note-system/
 │   ├── feedback/
 │   │   └── feedback.md    ← 修正記録（使うたびに育つ）
 │   ├── note_auto.md       ← /note_auto コマンドの定義
-│   └── learn.md           ← /learn コマンドの定義
+│   ├── learn.md           ← /learn コマンドの定義
+│   └── video.md           ← /video コマンドの定義（台本から動画を作る）
 ├── guide/
 │   ├── setup.md           ← セットアップ手順（このファイル）
 │   └── faq.md             ← よくある質問
+├── video/                 ← 台本から動画を作る仕組み（使い方は video/README.md）
 └── workspace/             ← 出力先（触らなくてOK）
 ```
 
